@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@zoomus/websdk": "^2.18.3",
+    "dotenv": "^16.4.5"
+  }
+}
